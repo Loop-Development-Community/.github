@@ -11,8 +11,10 @@
 # Project :
   Reality Server Network :
 
-  Games : Bed Wars          , Sky Wars              , Energy Set Time , 
+  # Games : 
   
-          Civillzation      , Weapon Wars           , Reality SMP     ,
+  Bed Wars          , Sky Wars              , Energy Set Time , 
+  
+  Civillzation      , Weapon Wars           , Reality SMP     ,
           
-          Parkour Grid Dojo , Parkour Grid Survivor , Zombie Labrynth
+  Parkour Grid Dojo , Parkour Grid Survivor , Zombie Labrynth
