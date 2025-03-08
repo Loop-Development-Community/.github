@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="ldc wall" src=".github/LDCwall.png">
+  <img width="500" alt="ldc wall" src="/LDCwall.png">
 </p>
 
 # Loop Development Community :
