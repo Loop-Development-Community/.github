@@ -22,7 +22,7 @@
   > Energy Set Time \
   > Civillzation \
   > Weapon Wars \
-  > Reality SMP \         
+  > Reality SMP \
   > Parkour Grid Dojo \
   > Parkour Grid Survivor \
   > Zombie Labrynth
