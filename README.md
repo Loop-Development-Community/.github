@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" alt="ldc wall" src="LDCwall.png">
+</p>
+
 # Loop Development Community :
   We are Minecraft Modder and Designer Who's Make some thing really stupid and cool at the same time
   
