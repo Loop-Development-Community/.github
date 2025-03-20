@@ -6,11 +6,17 @@
   We are Minecraft Modder and Designer Who's Make some thing really stupid and cool at the same time
   
 # Team Member :
-  Siwakorn_Sep : Owner, Lead Producer, Developer, Designer, Artist, Builder
+  Siwakorn_Sep : Owner, Lead Producer , Main Developer , Lead Designer , Main Artist , Concept Builder
   
-  Gunnlol : Lead Designer , Builder
+  Gunnlol : Designer , Detail Builder , Senier Moderator
   
-  Phum05 : Lead Builder , Designer
+  Phum05 : Lead Builder , Designer , Detail Builder
+
+  Rukchat8787 : Detail Builder
+
+  AomEngJab : Full Builder , Junier Moderator
+
+  Chinatip : Full Builder , Lead Moderation , Senier Moderator
 
 # Project :
   Reality Server Network :
