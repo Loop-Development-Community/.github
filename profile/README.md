@@ -5,18 +5,40 @@
 # Loop Development Community :
   We are Minecraft Modder and Designer Who's Make some thing really stupid and cool at the same time
   
-# Team Member :
-  Siwakorn_Sep : Owner, Lead Producer , Main Developer , Lead Designer , Main Artist , Concept Builder
-  
-  Gunnlol : Designer , Detail Builder , Senier Moderator
-  
-  Phum05 : Lead Builder , Designer , Detail Builder
+# Minecraft Server Contributors
 
-  Rukchat8787 : Detail Builder
+**Technical Director & CEO:**
+* Siwakorn_Sep (Technical Director, Creative Director, Community Manager, Audio Director)
 
-  AomEngJab : Full Builder , Junier Moderator
+**Chief Creative Officer (CCO):**
+* Phum05 (World Designer, Detail Builder)
 
-  Chinatip : Full Builder , Lead Moderation , Senier Moderator
+**Chief Design Officer (CDO)::**
+* Gunnlol (Lead Designer)
+
+**Detail Builder:**
+* เทพฆ่า (Also Rukchat8787)
+
+**General Builder:**
+* Chinatip 
+* AomEngJab
+
+**Moderation Team:**
+* Chinatip (Lead Moderator, Community Manager, General Builder)
+* AomEngJab (Moderator, General Builder)
+
+**QA Testers (Early Access):**
+* Best
+* BB
+* B
+* Fkkkkk
+* Guklaaaaaaaaaaaaaaaaaaaaaaa
+* n°PE___
+* Temmie
+* นฤเบศรว์ พาขุนทด
+* โยโย่ครับ
+* 🐾
+* ผงพิษ เจือจัน 
 
 # Project :
   Reality Server Network :
