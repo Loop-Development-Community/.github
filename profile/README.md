@@ -17,7 +17,7 @@
 * Gunnlol (Lead Designer)
 
 **Detail Builder:**
-* เทพฆ่า (Also Rukchat8787)
+* Also Rukchat8787
 
 **General Builder:**
 * Chinatip 
