@@ -27,19 +27,6 @@
 * Chinatip (Lead Moderator, Community Manager, General Builder)
 * AomEngJab (Moderator, General Builder)
 
-**QA Testers (Early Access):**
-* Best
-* BB
-* B
-* Fkkkkk
-* Guklaaaaaaaaaaaaaaaaaaaaaaa
-* n°PE___
-* Temmie
-* นฤเบศรว์ พาขุนทด
-* โยโย่ครับ
-* 🐾
-* ผงพิษ เจือจัน 
-
 # Project :
   Reality Server Network :
 
