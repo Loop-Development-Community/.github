@@ -21,11 +21,9 @@
 
 **General Builder:**
 * Chinatip 
-* AomEngJab
 
 **Moderation Team:**
 * Chinatip (Lead Moderator, Community Manager, General Builder)
-* AomEngJab (Moderator, General Builder)
 
 # Project :
   Reality Server Network :
