@@ -3,7 +3,7 @@
 </p>
 
 # Loop Development Community :
-  >The Pseudonym Name For Siwakorn_Sep a Programer/Designer/Editor of LDC \
+  >The Pseudonym For Siwakorn_Sep a Programer/Designer/Editor of LDC \
   >LDC have 3 brach 
   >  - Reality (Mostly Minecraft Server but also Original Game Too)
   >  - /Spawnpoint (Media, Art, Music, Video, Animation)
